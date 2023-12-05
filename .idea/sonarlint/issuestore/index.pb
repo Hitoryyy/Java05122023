@@ -7,3 +7,5 @@ _
 /src/main/java/lecture_1_Java_basic/Example.java,f\d\fd3eb9003ac1c10dd74e220f44693c84f63b166f
 `
 0src/main/java/lecture_1_Java_basic/Example2.java,9\0\906e3c6cd0e5471f984ed4e8ff0d98bad464ac9d
+`
+0src/main/java/lecture_1_Java_basic/Example3.java,c\c\cc9bef747cff6e0df5f81a9d2c15f84346749066
